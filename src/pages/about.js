@@ -6,6 +6,7 @@ import Image from "gatsby-image"
 // ...GatsbyImageSharpFluid
 const About = () => {
   return <h2>about page</h2>
+  <h3>fdgdfgd
 }
 
 export default About
